@@ -7,7 +7,7 @@ export default class Aboutus extends Component {
   render() {
     return (
       <>
-        <div className="album py-5 bg-light">
+        <div className="album py-5 bg-light" id="abou">
           <div className="container">
             <div className="row">
               <p className="heading-4">About US</p>
