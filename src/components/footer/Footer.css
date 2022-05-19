@@ -1,0 +1,19 @@
+.headings {
+  color: #002046;
+  font-size: 18px;
+  font-weight: bolder;
+}
+.back-footer {
+  background-color: #449bffd0;
+}
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+  color: #ffffff;
+  line-height: 30px;
+}
+.copyright {
+  color: #ffffff;
+  text-align: end;
+}
