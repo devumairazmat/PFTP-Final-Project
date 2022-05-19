@@ -41,7 +41,7 @@ class Header extends Component {
                         <button
                           style={{ fontSize: "18px" }}
                           type="button"
-                          class="btn btn-sm btn-primary"
+                          className="btn btn-sm btn-primary"
                         >
                           Search
                         </button>
