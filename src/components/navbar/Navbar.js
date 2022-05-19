@@ -51,7 +51,7 @@ export default class Navbar extends Component {
                 </li>
               </ul>
             </div>
-            <form className="d-flex">
+            <form className="d-flex ">
               <input
                 className="form-control me-2"
                 type="search"
