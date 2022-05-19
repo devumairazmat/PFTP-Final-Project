@@ -7,7 +7,7 @@ class Home extends Component {
   render() {
     return (
       <>
-        <div className="container mt-4 mb-4">
+        <div className="container mt-4 mb-4" id="hom">
           <div className="row mt-4 mb-4">
             <h4 className="heading-4">Home Section</h4>
             <div className="row row-cols-1 row-cols-md-3 g-4">
@@ -15,7 +15,7 @@ class Home extends Component {
                 <div className="card h-100 card-hover">
                   <img src={img1} className="card-img-top" alt="..." />
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
+                    <h5 className="card-title">Work</h5>
                     <p className="card-text">
                       This is a wider card with supporting text below as a
                       natural lead-in to additional content. This content is a
@@ -28,7 +28,7 @@ class Home extends Component {
                 <div className="card h-100">
                   <img src={img2} className="card-img-top" alt="..." />
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
+                    <h5 className="card-title">Customer Service</h5>
                     <p className="card-text">
                       This card has supporting text below as a natural lead-in
                       to additional content.
@@ -40,7 +40,7 @@ class Home extends Component {
                 <div className="card h-100">
                   <img src={img3} className="card-img-top" alt="..." />
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
+                    <h5 className="card-title">Team</h5>
                     <p className="card-text">
                       This is a wider card with supporting text below as a
                       natural lead-in to additional content. This card has even

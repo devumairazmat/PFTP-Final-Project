@@ -8,7 +8,7 @@ class Services extends Component {
     return (
       <>
         <div>
-          <div className="conatiner mt-4 mb-4 text-center ">
+          <div className="conatiner mt-4 mb-4 text-center " id="serv">
             <div className="row">
               <div className="heading-4 col">
                 <h1>What Can We Help You Find?</h1>
