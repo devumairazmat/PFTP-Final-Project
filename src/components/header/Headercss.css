@@ -1,0 +1,38 @@
+.display--4 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 86px;
+  /* or 123% */
+
+  color: #0f2b4a;
+}
+.lead-4 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 30px;
+  /* or 167% */
+
+  color: #576b81;
+}
+.btn {
+  font-size: 20px;
+}
+.form-label-4 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #0f2b4a;
+}
+@media only screen and (max-width: 800px) {
+  #cardimg {
+    display: none;
+  }
+}
