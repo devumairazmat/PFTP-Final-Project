@@ -1,0 +1,38 @@
+.heading-4 {
+  font-family: Inter;
+  font-weight: bolder;
+  font-size: 30px;
+  line-height: 58px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #0f2b4a;
+}
+.card-title {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 31px;
+  text-align: center;
+
+  color: #0f2b4a;
+}
+.card-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 162% */
+
+  text-align: center;
+
+  color: #576b81;
+}
+.card-img-top {
+  width: 30%;
+  margin: auto;
+  display: block;
+}

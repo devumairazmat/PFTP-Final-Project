@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import logo from "../../assets/images/logo.png";
+import "./Navbar.css";
 export default class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav class="navbar navbar-expand-lg navbar-light ">
+        <nav class="navbar navbar-expand-lg navbar-light nav-back ">
           <div class="container-fluid">
             <a class="navbar-brand" href="#">
               <img
@@ -44,7 +45,9 @@ export default class Navbar extends Component {
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link">Contact</a>
+                  <a class="nav-link" href="#">
+                    Contact
+                  </a>
                 </li>
               </ul>
             </div>
